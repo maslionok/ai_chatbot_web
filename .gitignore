@@ -1,0 +1,6 @@
+# macOS metadata files
+.DS_Store
+# Environment files
+.env
+
+extra_info
